@@ -20,4 +20,3 @@
 
 📜 **Interpretability and Transparency**: Ensure that the model's predictions are interpretable, especially in industries like winemaking, where understanding the reasons behind a prediction can be crucial for improving processes and quality.
 
-Remember that the success of wine quality prediction using machine learning depends on data quality, feature selection, model choice, and fine-tuning, as well as domain knowledge about winemaking and wine quality factors. 🍇🍷📈🤓
